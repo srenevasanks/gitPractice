@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26813" started-at="2020-01-13T13:31:35 IST" finished-at="2020-01-13T13:32:02 IST">
+  <suite name="Suite" duration-ms="20350" started-at="2020-01-14T14:33:22 IST" finished-at="2020-01-14T14:33:42 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26813" started-at="2020-01-13T13:31:35 IST" finished-at="2020-01-13T13:32:02 IST">
+    <test name="Test" duration-ms="20350" started-at="2020-01-14T14:33:22 IST" finished-at="2020-01-14T14:33:42 IST">
       <class name="gitPractice.GoogleChennai">
-        <test-method status="PASS" signature="googleChennai()[pri:0, instance:gitPractice.GoogleChennai@9660f4e]" name="googleChennai" duration-ms="12174" started-at="2020-01-13T13:31:35 IST" finished-at="2020-01-13T13:31:47 IST">
+        <test-method status="PASS" signature="googleChennai()[pri:0, instance:gitPractice.GoogleChennai@9660f4e]" name="googleChennai" duration-ms="11565" started-at="2020-01-14T14:33:22 IST" finished-at="2020-01-14T14:33:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleChennai -->
-        <test-method status="PASS" signature="googleChennai()[pri:0, instance:gitPractice.GoogleChennai@9660f4e]" name="googleChennai" duration-ms="14593" started-at="2020-01-13T13:31:47 IST" finished-at="2020-01-13T13:32:02 IST">
+        <test-method status="PASS" signature="googleChennai()[pri:0, instance:gitPractice.GoogleChennai@9660f4e]" name="googleChennai" duration-ms="8741" started-at="2020-01-14T14:33:33 IST" finished-at="2020-01-14T14:33:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleChennai -->
       </class> <!-- gitPractice.GoogleChennai -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
